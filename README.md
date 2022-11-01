@@ -5,7 +5,7 @@ Both mediastore-hub and mediastore-spoke can run independently however this demo
 
 Below goes the architecture
 
-![mediastore-activemq-mediastore-app](https://user-images.githubusercontent.com/1380957/199182706-2d95e4a3-47a1-4de2-bac9-4f6d5dac3dcc.jpg)
 
 
 
+![mediastore-activemq-mediastore-app (1)](https://user-images.githubusercontent.com/1380957/199185054-cd5503e8-1a16-4650-83a7-039ec68c4772.jpg)
